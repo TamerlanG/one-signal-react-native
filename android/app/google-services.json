@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "161441532532",
+    "firebase_url": "https://test-onesignal-87838.firebaseio.com",
+    "project_id": "test-onesignal-87838",
+    "storage_bucket": "test-onesignal-87838.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161441532532:android:952630408e25b67f5adf21",
+        "android_client_info": {
+          "package_name": "com.onepushnotifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "161441532532-sro5g1foddr00fkpmheqao7vk88fvmmi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB843hMNJ49tuwqejdCD4o-EEQg_SdTQBI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "161441532532-sro5g1foddr00fkpmheqao7vk88fvmmi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
